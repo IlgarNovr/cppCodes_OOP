@@ -1,0 +1,8 @@
+﻿  Execeptions.cpp
+C:\Users\ASUS\source\repos\UsersCpp\UsersCpp\Execeptions.cpp(6,33): warning C4081: expected 'newline'; found '.'
+  Selecting.cpp
+  Source.cpp
+C:\Users\ASUS\source\repos\UsersCpp\UsersCpp\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  User.cpp
+  Generating Code...
+  UsersCpp.vcxproj -> C:\Users\ASUS\source\repos\UsersCpp\Debug\UsersCpp.exe
