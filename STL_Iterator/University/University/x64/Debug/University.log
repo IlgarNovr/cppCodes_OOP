@@ -1,0 +1,9 @@
+﻿  Data.cpp
+  Group.cpp
+  Person.cpp
+C:\Users\ASUS\Downloads\University\University\University\Person.cpp(9,8): warning C4553: '==': result of expression not used; did you intend '='?
+  Selecting.cpp
+  Source.cpp
+  University.cpp
+  Generating Code...
+  University.vcxproj -> C:\Users\ASUS\Downloads\University\University\x64\Debug\University.exe
